@@ -1,0 +1,268 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ho_moadian
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e-20240513\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 11:44+0000\n"
+"PO-Revision-Date: 2024-08-21 11:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_res_company__org_api_url
+msgid "API URL"
+msgstr ""
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__res_partner__mod_top__4
+msgid "Atba"
+msgstr "اتباع غیر ایرانی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_ins__3
+msgid "Cancellation"
+msgstr "ابطالی"
+
+#. module: ho_moadian
+#: model:ir.model,name:ho_moadian.model_res_company
+msgid "Companies"
+msgstr "شرکت"
+
+#. module: ho_moadian
+#: model:ir.model,name:ho_moadian.model_res_partner
+msgid "Contact"
+msgstr "مخاطب"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_ins__2
+msgid "Corrective"
+msgstr "اصلاحی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__res_partner__mod_top__5
+msgid "End Consumer"
+msgstr "مصرف کننده نهایی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_status__failed
+msgid "FAILED"
+msgstr "ناموفق"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_res_company__fiscal_id
+msgid "Fiscal ID"
+msgstr "شناسه حافظه مالیاتی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inp__2
+msgid "Foroush Arzi"
+msgstr "فروش ارزی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__res_partner__mod_top__1
+msgid "Haghighi"
+msgstr "حقیقی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inp__6
+msgid "Havapeyma"
+msgstr "بلیط هواپیما"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__res_partner__mod_top__2
+msgid "Hoghoughi"
+msgstr "حقوقی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_status__in_progress
+msgid "IN_PROGRESS"
+msgstr ""
+
+#. module: ho_moadian
+#: model_terms:ir.ui.view,arch_db:ho_moadian.view_move_form_inherit
+msgid "Inquery Moadian"
+msgstr "استعلام از سامانه مودیان"
+
+#. module: ho_moadian
+#: model:ir.model,name:ho_moadian.model_account_move
+msgid "Journal Entry"
+msgstr "سند دفترروزنامه‌"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inp__5
+msgid "Khadamati"
+msgstr "قبوض خدماتی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_ins__1
+msgid "Main"
+msgstr "اصلی"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_product_product__mod_id
+#: model:ir.model.fields,field_description:ho_moadian.field_product_template__mod_id
+msgid "Moadian ID"
+msgstr "شناسه سامانه مودیان"
+
+#. module: ho_moadian
+#: model_terms:ir.ui.view,arch_db:ho_moadian.view_company_form_inherit_moadian
+#: model_terms:ir.ui.view,arch_db:ho_moadian.view_move_form_inherit
+#: model_terms:ir.ui.view,arch_db:ho_moadian.view_partner_form_inherit
+msgid "Moadian Information"
+msgstr "اطلاعات سامانه مودیان"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_reference_number
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_reference_number
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_reference_number
+msgid "Moadian Reference Number"
+msgstr "رسید یکتای دریافت صورتحساب"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_ir_tax_id
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_ir_tax_id
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_ir_tax_id
+msgid "Moadian Refrence Tax ID"
+msgstr "شماره منحصر به فرد مالیاتی صورتحساب مرجع"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_tax_id
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_tax_id
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_tax_id
+msgid "Moadian Tax ID"
+msgstr "شماره منحصر به فرد مالیاتی"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_uid
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_uid
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_uid
+msgid "Moadian UID"
+msgstr "شناسه سامانه مودیان"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_res_partner__mod_top
+#: model:ir.model.fields,field_description:ho_moadian.field_res_users__mod_top
+msgid "Modaian Buyer Type"
+msgstr "نوع شخص خریدار"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_inp
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_inp
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_inp
+msgid "Modaian Invoice Pattern"
+msgstr "الگوی صورتحساب"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_ins
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_ins
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_ins
+msgid "Modaian Invoice Subject"
+msgstr "موضوع صورتحساب"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_inty
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_inty
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_inty
+msgid "Modaian Invoice Type"
+msgstr "نوع صورتحساب"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_status
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_status
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_status
+msgid "Modaian Status"
+msgstr "وضعیت"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_account_bank_statement_line__mod_serial_number
+#: model:ir.model.fields,field_description:ho_moadian.field_account_move__mod_serial_number
+#: model:ir.model.fields,field_description:ho_moadian.field_account_payment__mod_serial_number
+msgid "Modian Serial Number"
+msgstr "شماره سریال"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__res_partner__mod_top__3
+msgid "Mosharekat Madani"
+msgstr "مشارکت مدنی"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_status__not_found
+msgid "NOT_FOUND"
+msgstr ""
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_status__pending
+msgid "PENDING"
+msgstr "معلق"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inp__4
+msgid "Peymankari"
+msgstr "قرارداد پیمانکاری"
+
+#. module: ho_moadian
+#: model:ir.model.fields,field_description:ho_moadian.field_res_company__pkey_file
+msgid "Private Key File"
+msgstr "فایل کلید خصوصی"
+
+#. module: ho_moadian
+#: model:ir.model,name:ho_moadian.model_product_template
+msgid "Product"
+msgstr ""
+
+#. module: ho_moadian
+#: model:ir.model,name:ho_moadian.model_product_product
+msgid "Product Variant"
+msgstr "گونه محصول"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_ins__4
+msgid "Return_sale"
+msgstr "برگشت از فروش"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_status__success
+msgid "SUCCESS"
+msgstr "موفق"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inp__1
+msgid "Sale"
+msgstr "فروش"
+
+#. module: ho_moadian
+#: model_terms:ir.ui.view,arch_db:ho_moadian.view_move_form_inherit
+msgid "Send Moadian"
+msgstr "ارسال به سامانه مودیان"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inp__3
+msgid "Tala"
+msgstr "صورتحساب طلا، جواهر و پلاتین"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inty__1
+msgid "Type1"
+msgstr "نوع اول"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inty__2
+msgid "Type2"
+msgstr "نوع دوم"
+
+#. module: ho_moadian
+#: model:ir.model.fields.selection,name:ho_moadian.selection__account_move__mod_inty__3
+msgid "Type3"
+msgstr "نوع سوم"
+
+#. module: ho_moadian
+#: model:ir.model.fields,help:ho_moadian.field_res_company__pkey_file
+msgid "Upload the Private Key"
+msgstr "بارگزاری کلید خصوصی"
